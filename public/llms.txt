@@ -1,0 +1,101 @@
+# המבחר — Generative Engine Optimization Map
+
+> An all-in-one children's and family store offering a wide variety of products including games, toys, and clothing. The store caters to families looking for a one-stop-shop experience for their kids' needs, spanning entertainment and apparel.
+
+---
+
+## Pages
+
+### בית
+https://-52546208.zappy5.app
+יש לנו את כללל המבחר! צעצועים, משחקים, ביגוד והפתעות לכל המשפחה הכול במקום אחד. כנסו עכשיו לחוויית קנייה מפנקת וחסכונית שלא תרצו לפספס.
+
+### תכונות
+https://-52546208.zappy5.app/features
+הכול במקום אחד עם תכונות שמקלות עליכם: סינון חכם, משלוח מהיר ומגוון שאין שני לו. גלו איך אנחנו הופכים כל רכישה לחוויה מושלמת לכל המשפחה.
+
+### אודות
+https://-52546208.zappy5.app/about
+יש לנו את כללל המבחר ולב ענק למשפחות! הכירו את החזון שלנו לספק הכול במקום אחד – מצעצועים ועד ביגוד – בקלות, באהבה ובמחירים שכולם אוהבים.
+
+### צור קשר
+https://-52546208.zappy5.app/contact
+צריכים עזרה? יש לנו את כללל המבחר וגם שירות שכולו לב! צרו קשר עכשיו ונשמח לייעץ, להמליץ ולדאוג שהכול במקום אחד יהיה פשוט ומדויק עבורכם.
+
+### Products
+https://-52546208.zappy5.app/products
+המוצרים שלנו - המבחר
+
+### Cart
+https://-52546208.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-52546208.zappy5.app/checkout
+תשלום
+
+### Login
+https://-52546208.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-52546208.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-52546208.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-52546208.zappy5.app/product/:slug
+פרטי המוצר - המבחר
+
+### Category
+https://-52546208.zappy5.app/category/:slug
+מוצרים - המבחר
+
+## Legal & Policy
+
+### Privacy Policy
+https://-52546208.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-52546208.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-52546208.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המבחר
+An all-in-one children's and family store offering a wide variety of products including games, toys, and clothing. The store caters to families looking for a one-stop-shop experience for their kids' needs, spanning entertainment and apparel.
+
+## Target Audience
+- משפחות עם ילדים
+- הורים צעירים
+- סבים וסבתות קונים
+- צעירים שמחפשים ריהוט לבית
+
+## Industry
+E-commerce / Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-52546208.zappy5.app/sitemap.xml
+- Robots: https://-52546208.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-52546208.zappy5.app/llms-full.txt
+- Products (JSON): https://-52546208.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-52546208.zappy5.app/product-feed.xml
